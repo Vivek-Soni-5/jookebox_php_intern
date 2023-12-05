@@ -1,14 +1,6 @@
-# Complete User Login & Registration system using PHP and MySQL database
+# User Login & Registration system using PHP and MySQL database for JookeBox PHP Intern
 
-version: 1.0.0
+## Email : vivek@gmail.com
 
-###UserName : elias
-###Password : 123
+## Password : vivek@123
 
-## Full Tutorial
-
-[On Youtube](https://youtu.be/QxZxHUf7c_0)
-
-## Authors
-
-[Elias Abdurrahman](https://github.com/codingWithElias)
